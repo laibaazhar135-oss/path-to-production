@@ -1,4 +1,4 @@
-const item =['laptop','mouse','keyboard','monitor','headphones'];
+const item =['laptop','mouse','keyboard','monitor','headphones'];//
 const stock=[5,0,12,0,3];
 
 item.push('webcam');
